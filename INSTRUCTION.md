@@ -27,3 +27,4 @@ NodePort exposes the application on a specific port across all cluster nodes. No
 # Open your web browser and navigate directly to:
 # http://localhost:30080
 ```
+
